@@ -1,9 +1,14 @@
+import LeftSideBar from "./components/LeftSideBar";
+import MainArea from "./components/MainArea";
 
 
 const App = () => {
   return (
     <>
-      <h2>Welcome to React</h2>
+      <div className="flex items-center">
+        <LeftSideBar />
+        <MainArea />
+      </div>
     </>
   );
 };
