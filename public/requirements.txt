@@ -1,0 +1,5 @@
+===================== REQUIREMENTS =============================
+1. After Login show will be  a instructions modal (logged-in-modal)
+2. Fresh Interface will be show (fresh-interface)
+
+

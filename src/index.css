@@ -1,0 +1,15 @@
+/* Google font -  Scope One */
+@import url("https://fonts.googleapis.com/css2?family=Scope+One&display=swap");
+
+
+/* Tailwind Directives */ 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+html {
+  font-family: "Scope One", serif;
+  font-weight: 500;
+  font-style: normal;
+}
